@@ -8,7 +8,9 @@ Connections with people, companies and projects is at the <3 of business life.
 
 That's why we started our coding by re-thinking the "Virtual Contact File" format.
 
-The new standard we're working on is called the "BCFF", and it's the foundation for a larger, durable "business OS" called BASICS.
+We are researching what a Business OS would look like that could power small devices.
+
+To get our feet wet and meet a very large need for simpler business records, we are starting off by making Workpads. It's a modular system for business records based on the fundamentals of trade and exchange - debt!
 
 <!--
 
