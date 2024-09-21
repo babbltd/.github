@@ -1,8 +1,8 @@
-## Welcome to CANOPY 👋
+## Welcome to Babb 👋
 
-We help build business tools for all ages.
+We build business tools for all ages.
 
-We're building in public to create business tools and systems that last.
+Tools and protocols that last.
 
 Connections with people, companies and projects is at the <3 of business life.
 
